@@ -88,7 +88,7 @@ speller:
 
 translator:
   dictionary: luna_pinyin     # 與【朙月拼音】共用詞典
-  prism: double_pinyin_abc    # prism 要以本輸入方案的名稱來命名，以免把朙月拼音的拼寫映射表覆蓋掉
+  prism: double_pinyin_sogou  # prism 要以本輸入方案的名稱來命名，以免把朙月拼音的拼寫映射表覆蓋掉
   preedit_format:             # 這段代碼用來將輸入的雙拼碼反轉爲全拼顯示；待見雙拼碼的可以把這段拿掉
 
 reverse_lookup:
